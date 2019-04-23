@@ -3,6 +3,10 @@ mongo-mq
 
 Simple job queue using mongodb
 
+Installation
+==========
+``pip install mongo-mq``
+
 
 Usage
 =====

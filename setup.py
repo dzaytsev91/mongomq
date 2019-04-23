@@ -13,4 +13,4 @@ setup(name='mongo-mq',
       setup_requires=["nose", "mongonose"],
       include_package_data=True,
       zip_safe=True,
-      )
+)
